@@ -1,0 +1,30 @@
+C:\Users\juanc\AppData\Local\Temporary Projects\La cuerda\bin\Debug\La cuerda.exe
+C:\Users\juanc\AppData\Local\Temporary Projects\La cuerda\bin\Debug\La cuerda.pdb
+C:\Users\juanc\AppData\Local\Temporary Projects\La cuerda\bin\Debug\La cuerda.xml
+C:\Users\juanc\AppData\Local\Temporary Projects\La cuerda\obj\x86\Debug\La_cuerda.Login.resources
+C:\Users\juanc\AppData\Local\Temporary Projects\La cuerda\obj\x86\Debug\La_cuerda.Resources.resources
+C:\Users\juanc\AppData\Local\Temporary Projects\La cuerda\obj\x86\Debug\La cuerda.vbproj.GenerateResource.Cache
+C:\Users\juanc\AppData\Local\Temporary Projects\La cuerda\obj\x86\Debug\La cuerda.exe
+C:\Users\juanc\AppData\Local\Temporary Projects\La cuerda\obj\x86\Debug\La cuerda.xml
+C:\Users\juanc\AppData\Local\Temporary Projects\La cuerda\obj\x86\Debug\La cuerda.pdb
+C:\Users\juanc\AppData\Local\Temporary Projects\La cuerda\obj\x86\Debug\La_cuerda.suario.resources
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La cuerda.exe
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La cuerda.xml
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La cuerda.pdb
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\bin\Debug\La cuerda.exe
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\bin\Debug\La cuerda.pdb
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\bin\Debug\La cuerda.xml
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La_cuerda.Login.resources
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La_cuerda.Resources.resources
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La cuerda.vbproj.GenerateResource.Cache
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La_cuerda.MenuPrincipal.resources
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La_cuerda.AgregarProducto.resources
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La_cuerda.registroUsuario.resources
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La_cuerda.ModificarProducto.resources
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\bin\Debug\aa\La cuerda.resources.dll
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La_cuerda.ModificarDatos.resources
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La_cuerda.ModificarDatos.aa.resources
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\aa\La cuerda.resources.dll
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La_cuerda.AgregarCliente.resources
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La_cuerda.AgregarUsuario.resources
+C:\Users\juanc\documents\visual studio 2010\Projects\La cuerda\La cuerda\obj\x86\Debug\La_cuerda.ModificarUsuario.resources
